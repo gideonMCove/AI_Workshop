@@ -1,4 +1,4 @@
-## SEIR 0911
+## SEBR 0116
 
 # AI /ChatGPT Workshop
 
@@ -15,13 +15,7 @@ One of the most common issues with AI is its confidence in giving an answer, eve
 Also, there is no set defined answer to AI's questions, and asking the same questions multiple times, or from multiple machines, may result in wildly different answers. 
 
 ## Slides
-<a href="https://docs.google.com/presentation/d/1N2QsfNbs46fk1rTVd-dtypQ9AFH0LtTdyiA0H4Qeous/edit#slide=id.g1e1da9ecd6b_0_15856" target="_blank"> Intro and Overview of AI in SEI </a>
-<br/>
-<a href="https://docs.google.com/presentation/d/1hypDzgz5O6HkIBotIZymV98PUp5oU7D6FbvjAJCg9Tg/edit#slide=id.g1e42f9bea70_1_0" target="_blank"> Ethics of AI usage </a>
-<br/>
-<a href="https://docs.google.com/presentation/d/15qOoN9Qv9Ohge4w5DKkMs55dfkoIze3jwdJzkOMKjcY/edit#slide=id.g1e43198b982_0_0" target="_blank"> Writing Prompts </a>
-
-
+<a href="https://docs.google.com/presentation/d/1nhKjAMNfoJMTy9RADsOPiwKPbhiZhyJR3_1-VEQFaE4/edit#slide=id.g2c70c09bdca_0_4380"> AI in the world of Tech </a>
 ## You Do
 
 ### Let's take a some time to work with some ChatGPT prompts to see what the answer given looks like, how close it is to what we want, and how different the answers are to others asking the same questions.
