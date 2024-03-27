@@ -32,4 +32,4 @@ Note - these prompts have been purposefully left a bit nebulous, you'll need to 
 
 3) Django - Create a serializer that works off of two models, an author (parent) and a book (child) related by a PK and FK. Author has data of Name, Birth Date, Nationlaity, and if they are alive or not. Books have Title, Genre, and a Short Description of them
 
-4) React - Use ChatGPT to tell you the differences between the UseContext hook and the Redux library, and the strengths, weaknesses, and usage for each would be. Then, using the information provided to you, teach it to your classmates making sure you un
+4) React - Use ChatGPT to tell you the differences between the UseContext hook and the Redux library, and the strengths, weaknesses, and usage for each would be. Then, using the information provided to you, teach it to your classmates
