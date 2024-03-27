@@ -10,9 +10,13 @@ ChatGPT is an LLM (Large Language Model) style tool, which means that it respond
 
 In fact, the anticipation of errors is one of the most important parts of working with AI tools. We can use it to help out in our work, but to rely strictly on AI is to invite in disaster for us.
 
-One of the most common issues with AI is its confidence in giving an answer, even when the answer is incorrect. This is an issue that arises when working with complex math equations (PEMDAS and OOO issues), and with multi-file projects where data is sent between different components and directories
+One of the most common issues with AI is its confidence in giving an answer, even when the answer is incorrect. This is an issue that arises when working with complex math equations (PEMDAS and OOO issues), and with multi-file projects where data is sent between different components and directories, especially as we work with different versions of these frameworks
 
 Also, there is no set defined answer to AI's questions, and asking the same questions multiple times, or from multiple machines, may result in wildly different answers. 
+
+Sounds fun, right?
+
+Let's dive in a bit more
 
 ## Slides
 <a href="https://docs.google.com/presentation/d/1nhKjAMNfoJMTy9RADsOPiwKPbhiZhyJR3_1-VEQFaE4/edit#slide=id.g2c70c09bdca_0_4380"> AI in the world of Tech </a>
