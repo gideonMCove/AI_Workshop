@@ -1,4 +1,4 @@
-## SEBR 0116
+## SEBR 0429
 
 # AI /ChatGPT Workshop
 
@@ -33,3 +33,28 @@ Note - these prompts have been purposefully left a bit nebulous, you'll need to 
 3) Django - Create a serializer that works off of two models, an author (parent) and a book (child) related by a PK and FK. Author has data of Name, Birth Date, Nationlaity, and if they are alive or not. Books have Title, Genre, and a Short Description of them
 
 4) React - Use ChatGPT to tell you the differences between the UseContext hook and the Redux library, and the strengths, weaknesses, and usage for each would be. Then, using the information provided to you, teach it to your classmates
+
+5) React - have ChatGPT explain what the "useState" hook is doing here:
+
+```jsx
+
+import {useState, useEffect} from 'react'
+import axios from 'axios'
+
+const App = () => {
+    const [pokemon, setPokemon] = useState({})
+
+    useEffect(()=> {
+      const response = axios.get('https://pokeapi.co/api/v2/pokemon/squirtle')
+      setPokemon(response.data)
+      }, [])
+
+    return (
+     <div>
+        <h1> {pokemon.name} </h1>
+        <img src={pokemon.sprites.front_default} alt="sprite"/>
+      </div
+
+ )
+}
+```
