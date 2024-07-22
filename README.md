@@ -30,7 +30,7 @@ Note - these prompts have been purposefully left a bit nebulous, you'll need to 
 
 2) Express - Create a server.js file with all of our standard express boilerplate. It should run at port 3001, send a message of "Server running" when it runs, and send a string of 'Welcome to our page' when reaching our landing page
 
-3) Django - Create a serializer that works off of two models, an author (parent) and a book (child) related by a PK and FK. Author has data of Name, Birth Date, Nationlaity, and if they are alive or not. Books have Title, Genre, and a Short Description of them
+3) Django - Create a serializer that works off of two models, an author (parent) and a book (child) related by a PK and FK. Author has data of Name, Birth Date, Nationality, and if they are alive or not. Books have Title, Genre, and a Short Description of them
 
 4) React - Use ChatGPT to tell you the differences between the UseContext hook and the Redux library, and the strengths, weaknesses, and usage for each would be. Then, using the information provided to you, teach it to your classmates
 
