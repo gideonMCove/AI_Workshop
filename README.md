@@ -38,7 +38,7 @@ Note - these prompts have been purposefully left a bit nebulous, you'll need to 
 
 ```jsx
 
-import {useState, useEffect} from 'react'
+import { useState, useEffect } from 'react'
 import axios from 'axios'
 
 const App = () => {
@@ -57,4 +57,6 @@ const App = () => {
 
  )
 }
+
+export default App
 ```
